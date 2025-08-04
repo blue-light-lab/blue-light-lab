@@ -5,8 +5,10 @@ All Anons & Pseudonyms are welcome.
 
 This space is devoted to the beauty and mystery of the Universe through code, math, and theory. Here you’ll find:
 
-- 🌌 Elegant explorations in **Astrophysics** and **High-Energy / Particle Physics** — equations, simulations, and applied models.
-- ⚛️ **Quantum-Theoretical** models inspired by modern quantum mechanics — including **quantum computing research and development**.
+- 🌌 Elegant explorations in **Astrophysics** and **High-Energy / Particle Physics** — equations, simulations, and applied models. 
+
+- ⚛️ **Quantum-Theoretical** models inspired by modern quantum mechanics — including **quantum computing research and development**. 
+
 - 📐 Deep **Mathematical Structures** for physical models:
   - Group, field, and ring theory
   - Topology
