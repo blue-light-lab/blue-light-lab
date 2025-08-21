@@ -14,6 +14,8 @@ This space is devoted to the beauty and mystery of the Universe through code, ma
   - Topology
   - Algebraic geometry & categorical formulations
 
+Nice to e-meet you. 
+
 > With gratitude,  
 > Dr. C22
 
