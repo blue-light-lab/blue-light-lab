@@ -76,6 +76,6 @@ This makes Cherenkov detectors invaluable in high-energy physics and astrophysic
 > *Cherenkova22 is a pseudonym, an homage, and a vessel for research.*  
 > *The glow is not just in matter, but in thought itself.*
 
----> With gratitude,  
-    Dr. C22
+---> *With gratitude,* 
+---> *Dr. C22*
 
