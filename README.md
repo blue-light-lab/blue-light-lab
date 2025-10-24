@@ -1,7 +1,7 @@
 
  # ✨ Blue-Light-Lab 
 
-## Decentralized Science - DeSci 
+## 🧬 Decentralized Science - DeSci 
 Blue-Light-Lab is a space for scientists, engineers, and thinkers — from students to post-docs — who wish to pursue **science for the sake of science**.
 It is built for those who value intellectual freedom over bureaucracy, curiosity over careerism, and truth over titles.
 
