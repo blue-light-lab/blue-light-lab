@@ -73,7 +73,7 @@ This makes Cherenkov detectors invaluable in high-energy physics and astrophysic
 
 ---
 ## About Me 
-I’m, a Robotics & AI PhD candidate && Mathematician. 
+I’m, a Robotics & AI PhD candidate && Mathematician, with a strong background in Astrophysics. 
 After years inside the academic machine, I realized how much genuine science happens despite the system, not because of it.
 Blue-Light-Lab was born from that realization — a place to reclaim scientific wonder, rigor, and play, without permission.
 
