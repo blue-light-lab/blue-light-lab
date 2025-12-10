@@ -83,9 +83,6 @@ Nobel laureate, discoverer of the **Cherenkov Effect** — the blue luminescence
 Like the glow in a reactor core, this organization is a beacon for explorations in **astrophysics, high-energy physics, quantum theory, and mathematical foundations**.  
 
 
-> *Cherenkova22 is a pseudonym, an homage, and a vessel for research.*  
-> *The glow is not just in matter, but in thought itself.*
-
 > *With gratitude,* 
 > *Dr. C22*
 
