@@ -66,9 +66,12 @@ This makes Cherenkov detectors invaluable in high-energy physics and astrophysic
 ---
 
 ## 📂 Repositories
+- `pinn-for-superradiant-abg-black-hole` → PINN for Superradiant Ayon-Beato-Garcia BH 
+- `on-the-sunyaev-zeldovich-effect` → Sunyaev-Zeldovich Effect theory  
+- `on-the-cherenkov-effect` → Cherenkov Effect theory  
+- `quantum-computing-foundation-theory` → Fundamentals of QC 
 - `astro-lab` → Astrophysics & cosmology codes  
 - `hep-theory` → High-energy physics & QFT models  
-- `quantum-computing` → Quantum-inspired algorithms  
 - `math-foundations` → Abstract algebra, topology, geometry  
 
 ---
@@ -79,8 +82,6 @@ Blue-Light-Lab was born from that realization — a place to reclaim scientific 
 
 **Homage to Pavel Cherenkov (1904–1990)**  
 Nobel laureate, discoverer of the **Cherenkov Effect** — the blue luminescence emitted when charged particles travel faster than light within a medium.  
-
-Like the glow in a reactor core, this organization is a beacon for explorations in **astrophysics, high-energy physics, quantum theory, and mathematical foundations**.  
 
 
 > *With gratitude,* 
