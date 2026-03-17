@@ -1,11 +1,11 @@
-# 🌌 Blue-Light-Lab x DeSci  
+# Blue-Light-Lab x DeSci  
 
 Welcome to **Blue-Light-Lab** — a frontier space where science, creativity, and decentralization converge.  
 Here, we explore how **Decentralized Science (DeSci)** can transform research, collaboration, and discovery.  
 
 ---
 
-## 🔬 What is DeSci?  
+## What is DeSci?  
 
 **DeSci (Decentralized Science)** is a movement that applies **Web3 principles** — blockchain, DAOs, NFTs, and smart contracts — to scientific research.  
 It’s about building a more **open, transparent, and community-driven** system for doing science.  
@@ -19,7 +19,7 @@ It’s about building a more **open, transparent, and community-driven** system 
 
 ---
 
-## 🧬 Why It Matters  
+## Why It Matters  
 
 Traditional science is often **slow, centralized, and paywalled**. DeSci helps overcome these barriers by:  
 - Accelerating innovation through collective intelligence.  
@@ -50,7 +50,7 @@ At **Blue-Light-Lab**, DeSci principles can support our mission in several ways:
 
 ---
 
-## 🌍 Vision  
+## Vision  
 
 **Blue-Light-Lab** aims to become a **living experiment in DeSci**:  
 - A place where science meets art, technology, and society.  
@@ -59,7 +59,7 @@ At **Blue-Light-Lab**, DeSci principles can support our mission in several ways:
 
 ---
 
-## 🚀 Get Involved  
+## Get Involved  
 
 - Join the discussion  
 - Propose ideas  

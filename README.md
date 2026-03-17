@@ -1,14 +1,14 @@
 
- # ✨ Blue-Light-Lab 
+ # Blue-Light-Lab 
 
-## 🧬 Decentralized Science - DeSci 
+## Decentralized Science - DeSci 
 Blue-Light-Lab is a space for scientists, engineers, and thinkers — from students to post-docs — who wish to pursue **science for the sake of science**.
 It is built for those who value intellectual freedom over bureaucracy, curiosity over careerism, and truth over titles.
 
 In an era where centralized academia often obscures creativity behind paperwork and politics, Blue-Light-Lab stands as an independent field station for exploration — a beacon for open, self-directed, and collaborative research in physics, mathematics, and artificial intelligence.
 ---
 
-## 🌌 Mission
+## Mission
 To explore the deep structures of reality through:
 - High-Energy & Particle Physics simulations and theory
 - Quantum-inspired models and quantum computing
@@ -17,7 +17,7 @@ To explore the deep structures of reality through:
 
 ---
 
-## ⚡ The Cherenkov Effect  
+## The Cherenkov Effect  
 
 The **Cherenkov Effect** is often described as the **light equivalent of a sonic boom**.  
 
@@ -28,7 +28,7 @@ This visible “light boom” is not faster-than-light in vacuum — but faster-
 
 ---
 
-## 📐 The Physics
+## The Physics
 
 The condition for Cherenkov radiation is:
 
@@ -57,7 +57,7 @@ When this is satisfied, a coherent shockwave of light is emitted at a characteri
 
 ---
 
-## 🔵 The Blue Glow
+## The Blue Glow
 
 The characteristic **blue color** arises because the intensity of Cherenkov radiation increases with frequency (up to a cutoff), meaning shorter wavelengths (blue/UV) dominate the emission.  
 
@@ -65,14 +65,11 @@ This makes Cherenkov detectors invaluable in high-energy physics and astrophysic
 
 ---
 
-## 📂 Repositories
+## Repositories
 - `pinn-for-superradiant-abg-black-hole` → PINN for Superradiant Ayon-Beato-Garcia BH 
-- `on-the-sunyaev-zeldovich-effect` → Sunyaev-Zeldovich Effect theory  
+ - `on-the-sunyaev-zeldovich-effect` → Sunyaev-Zeldovich Effect theory  
 - `on-the-cherenkov-effect` → Cherenkov Effect theory  
 - `quantum-computing-foundation-theory` → Fundamentals of QC 
-- `astro-lab` → Astrophysics & cosmology codes  
-- `hep-theory` → High-energy physics & QFT models  
-- `math-foundations` → Abstract algebra, topology, geometry  
 
 ---
 ## About Me 
@@ -83,6 +80,10 @@ Blue-Light-Lab was born from that realization — a place to reclaim scientific 
 **Homage to Pavel Cherenkov (1904–1990)**  
 Nobel laureate, discoverer of the **Cherenkov Effect** — the blue luminescence emitted when charged particles travel faster than light within a medium.  
 
+Like the glow in a reactor core, this organization is a beacon for explorations in **astrophysics, high-energy physics, quantum theory, and mathematical foundations**.  
+
+## Wanna join or just have questions? How to get in touch: 
+Send a polite, plain-text email to: hello.bluelightlab[ at ]gmail[ dot ]com
 
 > *With gratitude,* 
 > *Dr. C22*
